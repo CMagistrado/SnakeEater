@@ -41,4 +41,6 @@ More research is still being done, and I hope to be able to implemnt a pure pyth
 	* and seriously plain tcp dup() shell? What is this 2005?
 * Architecture detection (for use in code injection) to get correct SO
 * in memory decryption of loaded so 
-* pupy integration?
+* ~~pupy integration?~~~
+	* [I'm a big dummy,]: https://github.com/n1nj4sec/pupy/blob/unstable/pupy/packages/all/pupyimporter.py#L119 thanks [ninjasec]: https://github.com/n1nj4sec/
+
